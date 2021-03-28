@@ -1,10 +1,12 @@
 # Uikitreact
 Landing page design using UIkit 3 and particle.js
+
 https://getuikit.com/
+
 https://marcbruederlin.github.io/particles.js/
 
 # Screenshot
-<img width="1440" alt="demo" src="https://user-images.githubusercontent.com/19999634/112697189-53378580-8e44-11eb-8b53-ec720b0de0bb.png">
+<a target="_blank" alt="view the demo" href="https://eggeriley.github.io/uikitreact/"><img width="1440" alt="demo" src="https://user-images.githubusercontent.com/19999634/112697189-53378580-8e44-11eb-8b53-ec720b0de0bb.png"></a>
 
 
 # Uikit-react logo
